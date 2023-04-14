@@ -1,6 +1,7 @@
+
 # Hi there 👋
 <div align='center'>
-  <img src="https://media.giphy.com/media/FWAcpJsFT9mvrv0e7a/giphy.gif" align="center">
+  <img src="https://media.giphy.com/media/FWAcpJsFT9mvrv0e7a/giphy.gif" >
 </div>
 </br></br>
 
@@ -13,27 +14,17 @@
 > reading.
 
 <div>
-<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifulxploit&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="ifulxploit Top Langs" />
 
-    <a href="https://github.com/ifulxploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifulxploit&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="ifulxploit :: Top Langs" /></a>
-
-    <a href="https://github.com/ifulxploit"><img src="https://github-readme-stats.vercel.app/api?username=ifulxploit&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="ifulxploit :: Profile Stats" /></a>
-
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ifulxploit&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="ifulxploit Profile Stats" />
 </div>
 
-<p>
+<div>
+        <img src="https://github-profile-trophy.vercel.app/?username=ifulxploit&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="ifulxploit Tropy Stats" />
+</div>
 
-    <a href="https://github.com/ifulxploit">
 
-        <img src="https://github-profile-trophy.vercel.app/?username=ifulxploit&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="ifulxploit :: Tropy Stats" />
-
-    </a>
-
-</p>
-
-      
-  <p>
+ <div align='center'>
          <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
          <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
          <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
@@ -64,5 +55,5 @@
          <img src="https://img.shields.io/badge/-Python-E74430?style=flat-square&logo=Python&logoColor=white"/>
          <img src="https://img.shields.io/badge/-Go-0079BF?style=flat-square&logo=Go&logoColor=white"/>
          <img src="https://img.shields.io/badge/-Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/>
-      </p>
-    </div>
+</div>
+ 
