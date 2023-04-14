@@ -24,11 +24,33 @@
         <img src="https://github-profile-trophy.vercel.app/?username=ifulxploit&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="ifulxploit Tropy Stats" />
 </div>
 
+<div align='center'>
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+ ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+</div>
+
+<div align='center'>
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white)
+![Shell/Bash/PowerShell](https://img.shields.io/badge/-Shell/Bash/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MATLAB&logoColor=white)
+![Objective-C](https://img.shields.io/badge/-Objective--C-438eff?style=flat-square&logo=Apple&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)
+![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl&logoColor=white)
+![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+</div>
+
 
  <div align='center'>
- 
- 
- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![COBOL](https://img.shields.io/badge/-COBOL-4F5155?style=flat-square&logo=cobol&logoColor=white)
 ![Pascal](https://img.shields.io/badge/-Pascal-9B5DE5?style=flat-square&logo=pascal&logoColor=white)
