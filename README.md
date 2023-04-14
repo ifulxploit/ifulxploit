@@ -26,19 +26,9 @@
 
 |   |   |   |
 |---|---|---|
-| <img src="sertifikat1.jpg" alt="Sertifikat 1" style="max-width:100%; height:auto;"> | <img src="sertifikat2.jpg" alt="Sertifikat 2" style="max-width:100%; height:auto;"> | <img src="sertifikat3.jpg" alt="Sertifikat 3" style="max-width:100%; height:auto;"> |
+| <img src="https://github.com/ifulxploit/certificate/blob/main/coursera/Coursera%20KGF47Z5EHW84.jpg" alt="Sertifikat 1" style="max-width:100%; height:auto;"> | <img src="https://github.com/ifulxploit/certificate/blob/main/coursera/Coursera%20KAE3TFX98DVZ.jpg" alt="Sertifikat 2" style="max-width:100%; height:auto;"> | <img src="https://github.com/ifulxploit/certificate/blob/main/coursera/Coursera%20SHB3RACUMF8G.jpg" alt="Sertifikat 3" style="max-width:100%; height:auto;"> |
 
 
-<div style="display:flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div style="width: 300px; margin: 10px;">
-    <img src="https://github.com/ifulxploit/certificate/blob/main/coursera/Coursera%20KAE3TFX98DVZ.jpg" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="width: 300px; margin: 10px;">
-    <img src="https://github.com/ifulxploit/certificate/blob/main/coursera/Coursera%20KGF47Z5EHW84.jpg" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="width: 300px; margin: 10px;">
-    <img src="https://github.com/ifulxploit/certificate/blob/main/coursera/Coursera%20SHB3RACUMF8G.jpg" style="max-width: 100%; height: auto;">
-  </div>
-</div>
+
 
  
