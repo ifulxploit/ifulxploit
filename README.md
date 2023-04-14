@@ -24,6 +24,10 @@
         <img src="https://github-profile-trophy.vercel.app/?username=ifulxploit&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="ifulxploit Tropy Stats" />
 </div>
 
+|   |   |   |
+|---|---|---|
+| <img src="sertifikat1.jpg" alt="Sertifikat 1" style="max-width:100%; height:auto;"> | <img src="sertifikat2.jpg" alt="Sertifikat 2" style="max-width:100%; height:auto;"> | <img src="sertifikat3.jpg" alt="Sertifikat 3" style="max-width:100%; height:auto;"> |
+
 
 <div style="display:flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div style="width: 300px; margin: 10px;">
