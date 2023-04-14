@@ -1,6 +1,6 @@
 
 # Hi there 👋
-<div align='center'>
+<div align="center">
   <img src="https://media.giphy.com/media/FWAcpJsFT9mvrv0e7a/giphy.gif" >
 </div>
 </br></br>
@@ -13,10 +13,10 @@
 > deepen my understanding of what I learn. maybe that's all, thanks for
 > reading.
 
-<div align='center'>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifulxploit&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="ifulxploit Top Langs" />
 </div>
-<div align='center'>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ifulxploit&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="ifulxploit Profile Stats" />
 </div>
 
@@ -25,7 +25,7 @@
 </div>
 
 
-<div align='center'>
+<div align="center">
 ![COBOL](https://img.shields.io/badge/-COBOL-4F5B93?style=flat-square&logo=cobol&logoColor=white)
 ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white)
 ![Pascal](https://img.shields.io/badge/-Pascal-9B4F96?style=flat-square&logo=Pascal&logoColor=white)
