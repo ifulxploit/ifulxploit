@@ -12,16 +12,26 @@
 > deepen my understanding of what I learn. maybe that's all, thanks for
 > reading.
 
-<p align="center">
-
-  <a href="https://github.com/ifulxploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifulxploit&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="IfulXploit :: Top Langs" /></a>  </p>
-
 <div>
-    
-   <p align="left">
+<p>
 
-         <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ifulxploit&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  </p>
+    <a href="https://github.com/ifulxploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifulxploit&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="ifulxploit :: Top Langs" /></a>
+
+    <a href="https://github.com/ifulxploit"><img src="https://github-readme-stats.vercel.app/api?username=ifulxploit&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="ifulxploit :: Profile Stats" /></a>
+
+</p>
+</div>
+
+<p>
+
+    <a href="https://github.com/ifulxploit">
+
+        <img src="https://github-profile-trophy.vercel.app/?username=ifulxploit&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="ifulxploit :: Tropy Stats" />
+
+    </a>
+
+</p>
+
       
   <p>
          <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
