@@ -6,7 +6,10 @@
   <a href="https://github.com/ifulxploit">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=IfulXploit" alt="IfulXploit - Saiful Miqdar" /></a>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E96FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Front-end+Developer;UI%2FUX+Design;Software+Engineer;Fullstack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+  <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-end+Developer;UI%2FUX+Design;Software+Engineer;Fullstack+Developer&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
  
 <!-- Social icons section -->
