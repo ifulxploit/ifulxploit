@@ -32,9 +32,9 @@
 
 <div align="center" >
   <p>
-    <a href="https://github.com/ifulxploit/Vite-Docs-Indo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ifulxploit&repo=Vite-Docs-Indo&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    
-    
+    <a href="https://github.com/ifulxploit/Vite-Docs-Indo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aseprite&repo=aseprite&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Orama-Interactive/Pixelorama"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Orama-Interactive&repo=Pixelorama&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/freeCodeCamp/freeCodeCamp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
   <a href="https://github.com/ifulxploit?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
