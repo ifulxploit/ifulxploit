@@ -1,5 +1,7 @@
 
-<img src="./assets/project.gif" alt="banner">
+<!-- <img src="./assets/project.gif" alt="banner"> -->
+
+<a href="https://app.daily.dev/ifulxploit"><img src="https://api.daily.dev/devcards/v2/S2Sb67FBpNSK4UN0ajBYH.png?r=tjx&type=wide" width="652" alt="saiful miqdar's Dev Card"/></a>
  
    
 <p align="center">
